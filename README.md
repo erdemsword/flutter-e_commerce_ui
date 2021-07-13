@@ -1,5 +1,6 @@
 # e_commerce_ui
 E-ticaret UI
+Tamamlayamadığım için yapabildiğim kısmına kadar paylaşmak istedim.
 
 
 <img src="https://i.hizliresim.com/xueDH6.jpg" height="600" width="300">
